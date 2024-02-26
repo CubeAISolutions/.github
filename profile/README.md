@@ -1,5 +1,5 @@
 ## Hi there 👋
-- 💞️ Welcome to CubeAISolutions
+## 💞️ Welcome to CubeAISolutions
 
 <!--
 
